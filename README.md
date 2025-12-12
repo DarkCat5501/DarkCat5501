@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DarkCat5501
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarkCat5501)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/DarkCat5501/private-stats)
