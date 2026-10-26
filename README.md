@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DarkCat5501
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/DarkCat5501/private-stats)
+![Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=DarkCat5501&hide=&bgcolor=1a1b27&titlecolor=fff)
